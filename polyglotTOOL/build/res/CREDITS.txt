@@ -1,0 +1,58 @@
+==========================
+POLYGLOT LIBRARY CREDITS
+==========================
+
+== FOUNDER ==
+Simon Préfontaine
+
+== COORDINATOR ==
+Tuomas Karmakallio
+
+== EDITORS ==
+Riccardo Argiolas
+Srulo Art
+Jonathan Bennetts
+Alexander Bozhinov
+Valerio De Camillis
+Kasper "KGC" Christensen
+Arthur Ciappina
+Edwin "Eddycted" van Dijk
+Djonn
+Dani Estradera
+Mickaël Hassine
+Frederik Hermund
+JeFawk
+Kii
+Natachanan L
+Vladislav "Vlados" Loktionov
+Gustavo Maciel
+Adam Mareta
+Maciej Melcher
+Turhan Yagiz "Herhangi" Merpez
+Martin Eskdale Moen
+Christina-Antoinette Neofotistou
+Max Nilsson
+Guillaume Philibert
+Elmar van Rijnswou
+Gorro Rojo
+r-lyeh
+Denilson Sá
+Wam Sangrattanamanee
+Minjae "Torvald" Song
+Renato "Tafs"
+Demian "Datanalle" Wright
+
+== POLYGLOT CSV TOOL ==
+Felix Caffier
+
+== POLYGLOT DLL/SO LIBS ==
+Felix Caffier
+
+== SPECIAL THANKS ==
+ShiVa community, especially:
+Zach "error454" Burke
+Tuomas Karmakallio
+
+PureBasic community, especially:
+TI-994A
+Fred
